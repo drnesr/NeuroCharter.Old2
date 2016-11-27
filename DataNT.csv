@@ -1,5 +1,5 @@
 Temperature,Relative Humidity,Radiation, Site, Nitrogen, Potasium, Calcium, Suitability
-Tmpr, RH, Rad, Site, N, P, K, Stbl
+Tmpr, RH, Rad, Site, N, P, K, Stbl.
 10,5,0.5,A,62,25,55,Z
 10,5,0.75,B,66,17.5,22.5,G
 10,5,1,A,70,10,70,G
